@@ -11,6 +11,7 @@ Se te lanzará una pregunta sobre animales y deberás elegir entre cuatro opcion
 Si aciertas, te sumará al contador de aciertos y pasarás a la siguiente pregunta; si no, te suma al contador de respuestas incorrectas y pasas a la siguiente respuesta.
 
 Dispondrás de un seguimiento de las respuestas correctas/incorrectas y formuladas.
+
 El juego se gana cuando se aciertan 5 preguntas y se pierde cuando fallas 3 preguntas.  
 Después, tendrás la opción de volver a jugar o salir con un `s/n`.
 

@@ -3,7 +3,7 @@ Proyecto de Preguntas y Respuestas
 
 # Juego de preguntas sobre animales:
 Este es nuestro primer proyecto en equipo: un juego de preguntas sobre animales hecho en **Python**.  
-El resumen del proyecto y las normas del juego se muestran automáticamente al iniciar el juego en consola.
+Las normas del juego se muestran automáticamente al iniciar el juego en consola.
 
 # Cómo jugar:
 Al entrar, deberás decidir si jugar solo o contra otro jugador. Una vez hecho esto, entrarás al juego.  

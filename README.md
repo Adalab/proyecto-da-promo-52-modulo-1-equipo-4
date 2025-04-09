@@ -2,7 +2,7 @@
 Proyecto de Preguntas y Respuestas
 
 # Juego de preguntas sobre animales:
-Este es nuestro primer proyecto en equipo: un juego de preguntas sobre animales hecho en **Python**.  
+Este es nuestro primer proyecto en equipo del Bootcamp de Data Analyst en Adalab: un juego de preguntas sobre animales hecho en **Python**.  
 Las normas del juego se muestran automáticamente al iniciar el juego en consola.
 
 # Cómo jugar:

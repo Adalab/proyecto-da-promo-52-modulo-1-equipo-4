@@ -46,8 +46,8 @@ Aida
 
 La presentación final incluye:
 
-- Una demo en vivo del juego desde VS Code
-- Una presentación en X con:
+- Una demo en vivo del juego desde Google Collab
+- Una presentación en Canva con:
   - Portada con el nombre del equipo y las integrantes
   - Introducción
   - Objetivo y contexto
